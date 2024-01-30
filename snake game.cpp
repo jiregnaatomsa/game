@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <time.h>
 
-
+//snake game 
 using namespace std;
 
 const int WIDTH = 20;
